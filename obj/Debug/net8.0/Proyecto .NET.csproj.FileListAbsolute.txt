@@ -1,0 +1,25 @@
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\bin\Debug\net8.0\appsettings.json
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\bin\Debug\net8.0\Proyecto .NET.exe
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\bin\Debug\net8.0\Proyecto .NET.deps.json
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\bin\Debug\net8.0\Proyecto .NET.runtimeconfig.json
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\bin\Debug\net8.0\Proyecto .NET.dll
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\bin\Debug\net8.0\Proyecto .NET.pdb
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\Proyecto .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\Proyecto .NET.AssemblyInfoInputs.cache
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\Proyecto .NET.AssemblyInfo.cs
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\Proyecto .NET.csproj.CoreCompileInputs.cache
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\Proyecto .NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\staticwebassets\msbuild.Proyecto .NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\staticwebassets\msbuild.build.Proyecto .NET.props
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Proyecto .NET.props
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Proyecto .NET.props
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\scopedcss\bundle\Proyecto .NET.styles.css
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\Proyecto .NET.dll
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\refint\Proyecto .NET.dll
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\Proyecto .NET.pdb
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\Proyecto .NET.genruntimeconfig.cache
+C:\Users\Juan Pablo\Documents\FA UNSJ\FACULTAD\TERCER AÑO\PRIMER SEMESTRE\Programacion Web 2\Proyecto .NET\obj\Debug\net8.0\ref\Proyecto .NET.dll
